@@ -1,0 +1,722 @@
+*{
+    padding: 0%;
+    margin:0;
+    
+}
+
+
+.furni{
+    color: indigo;
+    position: absolute;
+    margin-top: 1rem;
+    font-size: 27px;
+    margin-left: 1rem;
+    
+}
+.home{
+    margin-left: 20rem;
+    position: absolute;
+    margin-top: 1.3rem;
+    
+}
+.about0{
+    
+    position: absolute;
+    margin-top: 1.3rem;
+    margin-left: 26rem;
+}
+
+ a{
+    text-decoration: none;
+ }   
+
+.features{
+    margin-left: 32rem;
+    position: absolute;
+    margin-top: 1.3rem;
+}
+.contact{
+    margin-left:39rem ;
+    position: absolute;
+    margin-top: 1.3rem;
+}
+.search{
+    margin-top: 1.3rem;
+    margin-left: 50rem;
+    border-radius: 5px;
+    width: 85px;
+    border: solid 1px indigo;
+}
+.search2{
+      height: 20px;
+    width: 18px;
+    margin-top: 22px;
+    margin-left: 3px;
+    position: absolute;
+}
+.Image{
+    height: 33rem;
+    width: 52rem;
+    margin-top: 2rem;
+    margin-left: 8rem;
+    border-radius: 10px;
+    position: absolute;
+}
+#sneha{
+    height: 15rem;
+    width: 18rem;
+    margin-left: -1rem;
+    color: aliceblue;
+    backdrop-filter: blur(15px);
+    margin-top: 10rem;
+}
+.interiour{
+    color:indigo;
+    margin-top: 15px;
+    font-size: 33px;
+    margin-left: 4rem;
+    position: absolute;
+}
+.text{
+    color: black;
+    font-size: 12px;
+    margin-left: 4rem;
+    margin-top: 9rem;
+    position: absolute;
+}
+.box2:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 18px, rgba(0, 0, 0, 0.22) 0px 15px 38px;
+}
+.box2{
+     background-color: rgb(214, 214, 214);
+     width: 100%;
+     height: 10rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin-top: 18rem;
+
+}
+.companies{
+    margin-left: 25rem;
+    font-size: 15px;
+    margin-top: 1rem;
+
+}
+.microsoft{
+    height: 5rem;
+    width: 8rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.spotify{
+    height: 3rem;
+    width: 4rem ;
+    margin-left: 5rem;
+    margin-bottom: 15px;
+}
+.netflix{
+    height: 3rem;
+    width: 7rem;
+    margin-left: 5rem;
+    margin-bottom: 15px;
+}
+.instagram{
+    height: 3rem;
+    width: 3rem;
+    margin-left: 6rem;
+    margin-bottom: 15px;
+}
+.twitter{
+    height: 3rem;
+    width: 4rem;
+    margin-left: 6rem;
+    margin-bottom: 15px;
+}
+.hot{
+height: 2rem;
+width: 1rem;
+margin-top: 10rem;
+
+}
+.deals{
+    margin-left: 3rem;
+    color:indigo;
+    margin-top: -2rem;
+    margin-bottom: 1rem;
+    
+    
+}
+.online{
+    font-size: small;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+
+
+.cashback{
+    margin-top: -6rem;
+    margin-left: 22rem;
+    font-size: 23px;
+    font-style: normal;
+}
+.online2{
+    font-size: small;
+    margin-left: 22rem;
+    margin-top: 1rem;
+}
+.online3{
+    margin-top: 20px;
+    margin-left: 37rem;
+    font-size:small ;
+}
+.terms{
+    margin-top: -6rem;
+    margin-left: 37rem;
+    font-size: 23px;
+}
+.save{
+    margin-top:-6rem ;
+    margin-left: 50rem;
+    font-size: 23px;
+}
+.online4{
+    margin-left: 50rem;
+    font-size: small;
+    margin-top: 1rem;
+}
+
+.about{
+    margin-left: 3rem;
+    margin-top: -3rem;
+    color:indigo;
+    position: absolute;
+}
+.us{
+    margin-left: 3rem;
+    margin-top: 15rem;
+    font-size: small;
+
+}
+.about1{
+    margin-top: 7rem;
+    margin-left: 3rem;
+    position: absolute;
+}
+.one{
+    color: indigo;
+}
+.head1{
+    margin-top: 1rem;
+}
+.p1{
+    margin-top: 1rem;
+    font-size: small;
+}
+.about2{
+    margin-top: 7rem;
+    margin-left: 20rem;
+    
+}
+.two{
+    color: indigo;
+}
+.head2{
+    margin-top: 1rem;
+
+}
+.p2{
+    margin-top: 1rem;
+    font-size: small;
+}
+.about3{
+    margin-top: 5rem;
+    margin-left: 3rem;
+    position: absolute;
+}
+.three{
+    color: indigo;
+}
+.head3{
+    margin-top: 1rem;
+}
+.p3{
+    margin-top: 1rem;
+    font-size: small;
+}
+.about4{
+    margin-top: 5rem;
+    margin-left: 20rem;
+}
+.four{
+    color: indigo;
+}
+.head4{
+margin-top: 1rem;
+
+}
+.p4{
+    margin-top: 1rem;
+    font-size: small;
+}
+.sofa1:hover{
+    box-shadow: rgba(43, 42, 43, 0.3) 0px 19px 38px, rgb(146, 146, 153) 0px 15px 12px;
+}
+
+.sofa1{
+    height: 11rem;
+    width: 11rem;
+    margin-left: 35rem;
+    margin-top: -22rem;
+    position: absolute;
+    border-radius: 20px;
+}
+.kitchen:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.kitchen{
+    height: 11rem;
+    width: 11rem;
+    margin-left: 49rem;
+    margin-top: -22rem;
+    position: absolute;
+    border-radius: 20px;
+} 
+.sofa2:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.sofa2{
+    height: 11rem;
+    width: 11rem;
+    margin-left: 49rem;
+    margin-top: -8rem;
+    position: absolute;
+    border-radius: 20px;
+}
+.hall:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.hall{
+    height: 11rem;
+    width: 11rem;
+    margin-left: 35rem;
+    margin-top: -8rem;
+    position: absolute;
+    border-radius: 20px;
+}
+.product{
+    color:indigo;
+    margin-top: 5rem;
+    margin-left: 3rem;
+    position: absolute;
+}
+.all{
+    margin-left: 20rem;
+ 
+   position: absolute;
+    margin-top: 11rem;
+}
+.bed{
+    position: absolute;
+    margin-left:25rem ;
+    margin-top: 11rem;
+}
+.sofa{
+    position: absolute;
+    margin-top: 11rem;
+    margin-left: 30rem;
+}
+.chair{
+    margin-top: 11rem;
+    margin-left: 35rem;
+    position:absolute ;
+}
+.light{
+    margin-top: 11rem;
+    margin-left: 41rem;
+    position: absolute;
+}
+.see{
+    margin-top: 11rem;
+    margin-left: 50rem;
+    position: absolute;
+}
+.lamp:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp{
+    background-color:rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    margin-left: 10rem;
+    margin-top: 16rem;
+    box-shadow:rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;;
+    
+    position: absolute;
+}
+.hand{
+    color: black;
+    margin-top: 2rem;
+    position: absolute;
+    margin-left: 2rem;
+}
+.r{
+    color: black;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.lamp2:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp2{
+    background-color: rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    
+    margin-left: 26rem;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    margin-top: 16rem;
+    position: absolute;
+}
+.vintage{
+    color:black;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.r2{
+    color: black;
+    position: absolute;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+.lamp3:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp3{
+    background-color: rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    
+    margin-left: 41rem;
+    margin-top: 16rem;
+}
+.tool{
+    color: black;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.r3{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.lamp4:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp4{
+    background-color: rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    margin-left: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    
+    margin-top: 5rem;
+    position: absolute;
+}
+.stylish{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.r4{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    position:absolute;
+}
+.lamp5:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp5{
+    background-color: rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    margin-left: 26rem;
+    margin-top: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    
+    position: absolute;
+}
+.vintage2{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.r5{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.lamp6:hover{
+     box-shadow: rgba(27, 19, 70, 0.993) 1.95px 1.95px 2.6px 4.5px;
+}
+.lamp6{
+    background-color: rgb(240, 240, 169);
+    height: 14rem;
+    width: 11rem;
+    margin-left: 41rem;
+    margin-top: 5rem;
+    
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    position: absolute;
+}
+.stakable{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.r6{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.client{
+    height: 30rem;
+    width: 41rem;
+    background-color:rgb(241, 241, 192);
+    margin-top: 24rem;
+    margin-left: 10.5rem;
+    border-radius: 20px;
+    position: absolute;
+}
+.happy{
+    color: indigo;
+    margin-left: 13rem;
+    margin-top: 3rem;
+    position: absolute;
+}
+.say{
+    color: indigo;
+    margin-left: 16rem;
+    margin-top: 5rem;
+    position: absolute;
+}
+.file1{
+    margin-top: 32rem;
+    position: absolute;
+    margin-left: 22rem;
+    font-size: 14px;
+}
+.file2{
+    margin-top: 33rem;
+    position: absolute;
+    margin-left: 22.5rem;
+    font-size: 14px;
+}
+.file3{
+    margin-top: 40rem;
+    margin-left: 34rem;
+    position: absolute;
+}
+.file4{
+    margin-top: 42rem;
+    margin-left: 34rem;
+    position: absolute;
+    font-size: 14px;
+}
+.file5{
+    margin-top: 47rem;
+    margin-left: 34rem;
+    position: absolute;
+}
+.file6{
+    margin-top: 49rem;
+    margin-left: 34rem;
+    position: absolute;
+    font-size: 14px;
+}
+.girl{
+    position: absolute;
+    height: 18rem;
+    width: 19rem;
+    margin-top: 35rem;
+    margin-left: 16rem;
+}
+.business{
+    height: 35rem;
+    width: 61rem;
+    background-color: rgb(10, 97, 97);
+    position: absolute;
+    margin-top: 57rem;
+    margin-left: 1.5rem;
+}
+.state{
+    color: white;
+    margin-top: 4rem;
+    margin-left: 6rem;
+}
+.state2{
+    margin-left: 6rem;
+    color: white;
+    margin-top: 10rem;
+    position: absolute;
+}
+.optix1{
+    margin-top: 12rem;
+    color: white;
+margin-left: 6rem;
+font-size: 12px;
+position: absolute;
+}
+.state3{
+    margin-top: 10rem;
+    margin-left: 19rem;
+    color: white;
+    position: absolute;
+}
+.optix2{
+    margin-left: 19rem;
+    margin-top: 12rem;
+    font-size: 12px;
+    position: absolute;
+    color: white;
+}
+.state4{
+    color: white;
+    margin-top: 10rem;
+    margin-left: 29rem;
+    position: absolute;
+}
+.optix3{
+    color: white;
+    margin-top: 12rem;
+    margin-left: 29rem;
+    font-size: 12px;
+    position: absolute;
+}
+.state5{
+    color: white;
+    margin-top: 10rem;
+    margin-left: 37rem;
+    position: absolute;
+}
+.optix4{
+    margin-left: 37rem;
+    margin-top: 12rem;
+    color: white;
+    position: absolute;
+    font-size: 12px;
+}
+.state6{
+    margin-left: 45rem;
+    margin-top: 10rem;
+    color: white;
+    position: absolute;
+} 
+.optix5{
+    margin-top: 12rem;
+    margin-left: 45rem;
+    position: absolute;
+    font-size: 12px;
+    color: white;
+}
+.f1{
+    height: 39px;
+    width: 35px;
+    position: absolute;
+    margin-top: 16.7rem;
+    margin-left: 6rem;
+}
+.f2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin-top: 17rem;
+    margin-left: 8.5rem;
+}
+.f3{
+    height: 33px;
+    width: 42px;
+    position: absolute;
+    margin-top: 17rem;
+    margin-left: 10.5rem;
+}
+.f4{
+    height: 43px;
+    width: 39px;
+    position: absolute;
+    margin-top: 16.7rem;
+    margin-left: 13rem;
+}
+.baselamp{
+    height: 9rem;
+    width: 9rem;
+    margin-top: 8rem;
+    margin-left: 1rem;
+
+}
+.studylamp{
+    height: 9rem;
+    width: 9rem;
+    margin-top: 8rem;
+    margin-left: 1rem;
+}
+.chair1{
+    height: 14rem;
+    width: 10rem;
+    margin-top: 5rem;
+    margin-left: 10px;
+}
+.chair3{
+    height: 13rem;
+    width: 13rem;
+    margin-top: 6rem;
+    margin-left:-5px ;
+}
+.chair2{
+    height: 12rem;
+    width: 12rem;
+    margin-top: 6rem;
+    margin-left: -1rem;
+}
+.chair4{
+    height: 13rem;
+    width: 13rem;
+    margin-top: 5rem;
+    margin-left: -2rem;
+}
+.bt{
+    margin-left: 56rem;
+    position: absolute;
+    margin-top: -31rem;
+   height: 34px;
+   width: 90px;
+   border: none;
+   background-color: #F3D0D7;
+}
+.bt1:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.bt1{
+    height: 36px;
+    width: 95px;
+    border: none;
+    background-color: white;
+    position: absolute;
+    margin-left: 36rem;
+    margin-top: 2rem;
+}
+.bt2:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.bt2{
+    height:36px;
+    width:95px;
+    border: none;
+    background-color: white;
+    position: absolute;
+    margin-left: 42.1rem;
+    margin-top: 2rem;
+}
